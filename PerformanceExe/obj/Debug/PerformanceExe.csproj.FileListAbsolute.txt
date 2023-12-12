@@ -1,0 +1,20 @@
+C:\Users\Mamet\source\repos\PerformanceExe\bin\Debug\PerformanceExe.exe.config
+C:\Users\Mamet\source\repos\PerformanceExe\bin\Debug\PerformanceExe.exe
+C:\Users\Mamet\source\repos\PerformanceExe\bin\Debug\PerformanceExe.pdb
+C:\Users\Mamet\source\repos\PerformanceExe\obj\Debug\PerformanceExe.csproj.AssemblyReference.cache
+C:\Users\Mamet\source\repos\PerformanceExe\obj\Debug\PerformanceExe.Properties.Resources.resources
+C:\Users\Mamet\source\repos\PerformanceExe\obj\Debug\PerformanceExe.csproj.GenerateResource.cache
+C:\Users\Mamet\source\repos\PerformanceExe\obj\Debug\PerformanceExe.csproj.CoreCompileInputs.cache
+C:\Users\Mamet\source\repos\PerformanceExe\obj\Debug\PerformanceExe.exe
+C:\Users\Mamet\source\repos\PerformanceExe\obj\Debug\PerformanceExe.pdb
+C:\Users\Mamet\source\repos\PerformanceExe\obj\Debug\PerformanceExe.Form1.resources
+\\Mac\Home\Documents\Coding training\ExecutionC--main (1)\ExecutionC--main\PerformanceExe\bin\Debug\PerformanceExe.exe.config
+\\Mac\Home\Documents\Coding training\ExecutionC--main (1)\ExecutionC--main\PerformanceExe\bin\Debug\PerformanceExe.exe
+\\Mac\Home\Documents\Coding training\ExecutionC--main (1)\ExecutionC--main\PerformanceExe\bin\Debug\PerformanceExe.pdb
+\\Mac\Home\Documents\Coding training\ExecutionC--main (1)\ExecutionC--main\PerformanceExe\obj\Debug\PerformanceExe.csproj.AssemblyReference.cache
+\\Mac\Home\Documents\Coding training\ExecutionC--main (1)\ExecutionC--main\PerformanceExe\obj\Debug\PerformanceExe.Form1.resources
+\\Mac\Home\Documents\Coding training\ExecutionC--main (1)\ExecutionC--main\PerformanceExe\obj\Debug\PerformanceExe.Properties.Resources.resources
+\\Mac\Home\Documents\Coding training\ExecutionC--main (1)\ExecutionC--main\PerformanceExe\obj\Debug\PerformanceExe.csproj.GenerateResource.cache
+\\Mac\Home\Documents\Coding training\ExecutionC--main (1)\ExecutionC--main\PerformanceExe\obj\Debug\PerformanceExe.csproj.CoreCompileInputs.cache
+\\Mac\Home\Documents\Coding training\ExecutionC--main (1)\ExecutionC--main\PerformanceExe\obj\Debug\PerformanceExe.exe
+\\Mac\Home\Documents\Coding training\ExecutionC--main (1)\ExecutionC--main\PerformanceExe\obj\Debug\PerformanceExe.pdb
